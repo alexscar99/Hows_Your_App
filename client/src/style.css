@@ -1,0 +1,71 @@
+body {
+  font-family: 'Sunflower', sans-serif;
+}
+
+.nav-wrapper,
+.footer-no-sticky {
+  background: #067bc2;
+}
+
+.brand-logo {
+  margin-left: 20px;
+}
+
+.login-btn,
+.login-btn:visited {
+  background-color: #d61d1d;
+}
+
+.login-btn:hover {
+  background-color: #ee2c2c;
+}
+
+.landing-title {
+  text-align: center;
+  color: #e74e4e;
+  font-size: 5rem;
+}
+
+.landing-subtitle {
+  text-align: center;
+}
+
+.landing-content {
+  padding-top: 8%;
+}
+
+.footer-text {
+  padding: 15px;
+  color: white;
+}
+
+.footer-no-sticky {
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+}
+
+.landing-arrow {
+  margin: 9% auto;
+  display: block;
+  color: #067bc2;
+}
+
+.row .col.s1 {
+  width: 10%;
+  margin-left: 2.5%;
+}
+
+.card .card-title {
+  text-align: center;
+  font-size: 1.8em;
+  margin-bottom: 12px;
+  font-weight: bold;
+}
+
+.card .card-content p {
+  margin: 20px 10px 0 0;
+  font-size: 1.2em;
+  font-weight: normal;
+  text-align: center;
+}
