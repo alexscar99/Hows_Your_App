@@ -61,18 +61,6 @@ body {
   display: block;
 }
 
-.landing-card-left {
-  background: #cac8c8;
-}
-
-.landing-card-middle {
-  background: #f8a45b;
-}
-
-.landing-card-right {
-  background: #00a878;
-}
-
 .arrow-one,
 .arrow-two {
   border-radius: 100px;

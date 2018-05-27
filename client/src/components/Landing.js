@@ -11,7 +11,7 @@ const Landing = () => {
 
       <div className="row landing-content">
         <div className="col s3">
-          <div className="card landing-card-left">
+          <div className="card grey lighten-3">
             <div className="card-content black-text">
               <span className="card-title">Detailed Surveys</span>
               <hr className="card-hr" />
@@ -25,7 +25,7 @@ const Landing = () => {
         </div>
 
         <div className="col s3">
-          <div className="card landing-card-middle">
+          <div className="card grey lighten-3">
             <div className="card-content black-text">
               <span className="card-title">Instant Feedback</span>
               <hr className="card-hr" />
@@ -39,7 +39,7 @@ const Landing = () => {
         </div>
 
         <div className="col s3">
-          <div className="card landing-card-right">
+          <div className="card grey lighten-3">
             <div className="card-content black-text">
               <span className="card-title">Analytics Reports</span>
               <hr className="card-hr" />
