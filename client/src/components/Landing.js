@@ -8,7 +8,7 @@ const Landing = () => {
       <h5 className="landing-subtitle">
         Instantly improve your application or website
       </h5>
-      <p />
+
       <div className="row landing-content">
         <div className="col s3">
           <div className="card grey lighten-5">
