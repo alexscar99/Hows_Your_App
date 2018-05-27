@@ -11,22 +11,22 @@ const Landing = () => {
 
       <div className="row landing-content">
         <div className="col s3">
-          <div className="card grey lighten-3">
-            <div className="card-content black-text">
+          <div className="card grey darken-1 white-text">
+            <div className="card-content">
               <span className="card-title">Detailed Surveys</span>
               <hr className="card-hr" />
-              <p>Create surveys to ask your consumers the questions you want</p>
+              <p>Create surveys to ask consumers the questions you want</p>
             </div>
           </div>
         </div>
 
         <div className="col s1 landing-arrow">
-          <i className="medium material-icons arrow-one">arrow_forward</i>
+          <i className="material-icons arrow-one">arrow_forward</i>
         </div>
 
         <div className="col s3">
-          <div className="card grey lighten-3">
-            <div className="card-content black-text">
+          <div className="card grey darken-1 white-text">
+            <div className="card-content">
               <span className="card-title">Instant Feedback</span>
               <hr className="card-hr" />
               <p>See what your users have to say about your app or website</p>
@@ -35,12 +35,12 @@ const Landing = () => {
         </div>
 
         <div className="col s1 landing-arrow">
-          <i className="medium material-icons arrow-two">arrow_forward</i>
+          <i className="material-icons arrow-two">arrow_forward</i>
         </div>
 
         <div className="col s3">
-          <div className="card grey lighten-3">
-            <div className="card-content black-text">
+          <div className="card grey darken-1 white-text">
+            <div className="card-content">
               <span className="card-title">Analytics Reports</span>
               <hr className="card-hr" />
               <p>
