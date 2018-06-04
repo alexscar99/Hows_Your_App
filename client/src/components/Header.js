@@ -11,7 +11,10 @@ class Header extends Component {
       case false:
         return (
           <li className="right">
-            <a className="login-btn white-text btn" href="/auth/google">
+            <a
+              className="login-btn white-text text-darken-2 btn"
+              href="/auth/google"
+            >
               <i className="medium material-icons account-logo">account_box</i>Login
               With Google
             </a>
@@ -43,7 +46,7 @@ class Header extends Component {
             to={this.props.auth ? '/surveys' : '/'}
             className="left brand-logo"
           >
-            How's Your App?
+            How's Your App
           </Link>
           <ul className="right">{this.renderContent()}</ul>
         </div>
